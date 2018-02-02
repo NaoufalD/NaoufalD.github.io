@@ -1,0 +1,6 @@
+html, body {
+  background: linear-gradient(-50deg, #9bbfbf, #ffffff) fixed;
+  color: black;
+  font-family: "Lucida Console", Monaco, monospace;
+  clear: both;
+}

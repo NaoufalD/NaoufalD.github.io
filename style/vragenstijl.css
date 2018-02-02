@@ -1,0 +1,64 @@
+p.antwoord:hover {
+  color: black;
+}
+p.antwoord {
+  color: yellow;
+  background-color: yellow;
+  display: table;
+}
+h2 {
+  color: blue;
+  background-color: red;
+  display: table;
+}
+p#uitleg {
+  text-align: right;
+}
+html, body {
+  background: linear-gradient(-50deg, #9bbfbf, #ffffff) fixed;
+  color: black;
+  font-family: "Lucida Console", Monaco, monospace;
+  clear: both;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul:hover { box-shadow: 2px 2px 10px black;
+}
+li a:hover {
+    background-color: white;
+    color: black;
+}
+h1 {
+  text-align: left;
+  text-shadow: 2px 2px 10px black;
+}
+h2 {
+  text-align: left;
+}
+.aanduiding {
+  color: darkblue;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 120%;
+}
+table, td {
+  border: 1px solid rgba(0, 0, 0, 1);
+  border-width: medium;
+  text-align: center;
+  border-collapse: collapse;
+}
