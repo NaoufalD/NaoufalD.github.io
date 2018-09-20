@@ -5,16 +5,7 @@ html, body {
   clear: both;
   }
   .lijst {
-    display: table;
-    margin: 10px;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    list-style: inside circle none;
-    list-style-type: circle;
-    list-style-position: inside;
-    list-style-image: none;
+
   }
 h1 {
   text-align: left;
